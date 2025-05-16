@@ -16,10 +16,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "dev.titanite.sparkwave.sword_saint.fabric.ExampleModFabric"
+      "dev.titanite.sparkwave.sword_saint.fabric.SwordSaintFabric"
     ],
     "client": [
-      "dev.titanite.sparkwave.sword_saint.fabric.client.ExampleModFabricClient"
+      "dev.titanite.sparkwave.sword_saint.fabric.client.SwordSaintFabricClient"
     ]
   },
   "mixins": [
